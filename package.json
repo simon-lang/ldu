@@ -1,0 +1,11 @@
+{
+  "name": "ldu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Simon Lang <me@simonlang.org>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "sequelize": "^4.32.2"
+  }
+}
